@@ -1,6 +1,8 @@
 Dash Cheat Sheets 
 ===========
 
+> **Note:** This repository is being used as a sandbox for an OpsLevel/Anthropic Managed Agents demo. Demo-related changes may appear here and are unrelated to the upstream Dash cheat sheets project.
+
 All the [Dash](https://kapeli.com/dash) cheat sheets that can be installed from Preferences > Downloads > Cheat Sheets can be found in this repo. You can modify them or add new ones using pull requests.
 
 # Make Your Own
